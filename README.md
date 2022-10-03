@@ -16,4 +16,8 @@ The number of images per classes:
 Female: 19,057  
 Male: 10,943
 
-If you find uncorrectly classified samples please report to me.
+If you find incorrectly classified samples, please report them to me.
+
+## Acknowledgement
+Original dataset: [CelebAHQ](https://github.com/tkarras/progressive_growing_of_gans).  
+Resized dataset: [CelebAHQ-256x256](https://www.kaggle.com/datasets/badasstechie/celebahq-resized-256x256).  
